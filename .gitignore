@@ -1,0 +1,10 @@
+*.iml
+/second lesson.iml
+
+/src/Main.java
+/src/dop.java
+/.idea/vcs.xml
+/.idea/uiDesigner.xml
+/.idea/modules.xml
+/.idea/misc.xml
+/.idea/.gitignore
